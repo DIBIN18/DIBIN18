@@ -32,4 +32,7 @@
 <h3 align="center">✍️ Random Dev Quote</h3>
 <hr />
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h3 align="center">✍️ Inspirational Quote:</h3>
+<hr />
+
+"Programming isn't about what you know; it's about what you can figure out." - Chris Pine
