@@ -1,3 +1,5 @@
+![Banner](https://i.postimg.cc/vB21xywb/banner-name.png)
+
 <h3 align="center"> 💫 About Me: </h3>
 <hr />
 🔭 I’m currently working on **a game named Ranking of Kings (王様ランキング): Bojji Adventures** <br>
@@ -37,4 +39,5 @@
 
 <hr />
 
-[![](https://visitcount.itsvg.in/api?id=YourGitHubUsername&icon=5&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DIBIN18&icon=5&color=4)](https://visitcount.itsvg.in)
+
