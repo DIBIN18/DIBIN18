@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/vB21xywb/banner-name.png)
+![Banner](https://i.postimg.cc/25DmGK7v/banner.png)
 
 <h3 align="center"> 💫 About Me: </h3>
 <hr />
