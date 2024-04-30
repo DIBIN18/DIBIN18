@@ -29,9 +29,6 @@
 🎮 I'm currently working on a game named [Ranking of Kings (王様ランキング): Bojji Adventures](https://gd.games/dibin18/rok-bojji-adventures) <br>
 🎥 Check out my YouTube channel [BuLeague Gaming](https://www.youtube.com/channel/UCbpp44-wIxcDWJp2aimQm1g) for gaming content!
 
-<h3 align="center">✍️ Random Dev Quote</h3>
-<hr />
-
 <h3 align="center">✍️ Inspirational Quote:</h3>
 <hr />
 
