@@ -34,3 +34,7 @@
 <hr />
 
 "Programming isn't about what you know; it's about what you can figure out." - Chris Pine
+
+<hr />
+
+[![](https://visitcount.itsvg.in/api?id=YourGitHubUsername&icon=5&color=4)](https://visitcount.itsvg.in)
